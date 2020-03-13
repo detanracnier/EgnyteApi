@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\detan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\detan\\.nuget\\packages"
+    ]
+  }
+}
